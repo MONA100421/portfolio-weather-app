@@ -38,14 +38,14 @@ input {
 
 button {
     padding: 5px 10px;
-    background-color: #333;
+    background-color: #d17b81;
     color: white;
     border: none;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #555;
+    background-color: #d17b81;
 }
 
 #weatherResult {
